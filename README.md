@@ -42,6 +42,14 @@ Tooling
 ## Quick Start
 
 1) Clone and install dependencies
+- Clone the repository:
+  ```bash
+  git clone https://github.com/Sadhinrana/simple-laravel-elasticsearch-app.git
+  ```
+  Or using SSH:
+  ```bash
+  git clone git@github.com:Sadhinrana/simple-laravel-elasticsearch-app.git
+  ```
 - composer install
 - npm install
 
